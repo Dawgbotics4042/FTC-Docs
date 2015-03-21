@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['hitechnic',['HiTechnic',['../group___hi_technic.html',1,'']]]
+  ['arduino',['Arduino',['../group__arduino.html',1,'']]]
 ];
